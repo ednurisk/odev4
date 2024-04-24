@@ -1,9 +1,9 @@
 # odev4
 Benzerlik Oranı
 
-#Bu kod, kullanıcıdan alınan iki metni karşılaştırır.
+# Bu kod, kullanıcıdan alınan iki metni karşılaştırır.
 #Eğer metinler farklı uzunluktaysa, kısa olanı boşluklarla uzatır.
-# Sonrasında, Benzerlik oranını hesaplamak için karakterleri karşılaştırır ve eşleşmeyen karakterleri sayar. 
+#Sonrasında, Benzerlik oranını hesaplamak için karakterleri karşılaştırır ve eşleşmeyen karakterleri sayar. 
 
 #kosinüs benzerliği:bu yöntemde, metinleri vektörler olarak temsil ederek, aralarındaki açının kosinüsünü hesaplar.
 #Açının kosinüsü, vektörler arasındaki benzerliği gösterir.
