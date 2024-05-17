@@ -1,5 +1,5 @@
 # odev4
-Benzerlik Oranı
+Benzerlik Oranı PyQt5 ile arayüzle
 
 # Bu kod, kullanıcıdan alınan iki metni karşılaştırır.
 #Eğer metinler farklı uzunluktaysa, kısa olanı boşluklarla uzatır.
